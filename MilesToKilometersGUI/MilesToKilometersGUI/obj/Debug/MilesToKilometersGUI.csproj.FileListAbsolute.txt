@@ -1,0 +1,10 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\bin\Debug\MilesToKilometersGUI.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\bin\Debug\MilesToKilometersGUI.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\bin\Debug\MilesToKilometersGUI.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.Form1.resources
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.Properties.Resources.resources
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csproj.GenerateResource.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MilesToKilometersGUI\MilesToKilometersGUI\obj\Debug\MilesToKilometersGUI.pdb
