@@ -1,0 +1,10 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\bin\Debug\MadLibsGUI.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\bin\Debug\MadLibsGUI.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\bin\Debug\MadLibsGUI.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.Form1.resources
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.Properties.Resources.resources
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.csproj.GenerateResource.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter3\MadLibsGUI\MadLibsGUI\obj\Debug\MadLibsGUI.pdb
